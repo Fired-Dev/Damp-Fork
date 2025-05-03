@@ -1,11 +1,11 @@
 modLoader = "javafml"
-loaderVersion = "[38,)"
+loaderVersion = "[43,)"
 license = "AGPL v3"
 [[mods]]
 modId = "damp"
 version = "1.0.0"
 displayName = "Damp"
 credits = ""
-authors = "Tapio"
+authors = "Tapio, Colinxu2020"
 description = '''
 '''
